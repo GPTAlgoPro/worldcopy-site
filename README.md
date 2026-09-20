@@ -27,6 +27,10 @@ The website is a static documentation site. It has no login, payment processing,
 - Keep App Store availability accurate. Do not add download badges before the apps are available.
 - Update privacy, purchase disclosures and support documentation when the shipped app changes.
 
+## Brand icon
+
+The website uses the complete light-appearance icon render (`assets/worldcopy-icon-light.png`), including the glass background and lens halo. The app asset catalog fallback PNG is not the composited app icon.
+
 ## Screenshots
 
 Captured on September 20, 2026 from the actual WorldCopy 1.24.2 (227) apps:
