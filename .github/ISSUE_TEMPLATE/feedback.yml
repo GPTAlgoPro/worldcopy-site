@@ -1,0 +1,25 @@
+name: Product feedback / 产品反馈
+description: Help or feedback for WorldCopy on iOS and Mac / 摹界使用帮助与反馈
+title: "[Feedback] "
+body:
+  - type: markdown
+    attributes:
+      value: "This issue is public. Do not upload personal photos, models, device identifiers or confidential data. For private support, email sunkai4u@gmail.com. 本页面公开可见，请勿上传私人照片、模型、设备标识或机密信息。私人问题请发邮件至 sunkai4u@gmail.com。"
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform / 平台
+      options: [iOS, macOS, Website / 网站]
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: App and OS version / App 与系统版本
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened? / 问题描述
+      description: Include steps to reproduce and the expected result. / 请附上复现步骤与预期结果。
+    validations:
+      required: true
