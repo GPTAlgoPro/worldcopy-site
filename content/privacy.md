@@ -154,6 +154,6 @@ Mac App 不使用相机采集；只有当你选择或拖入文件包时，才使
 
 ## Website hosting / 网站托管
 
-This documentation website is hosted by GitHub Pages. GitHub may process connection information, including IP addresses, for operation and security under GitHub’s privacy statement: https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement . We do not add analytics, advertising trackers, contact forms, or embedded third-party media. Public GitHub issues are visible to everyone; do not submit personal or confidential information.
+This documentation website is hosted by GitHub Pages. GitHub may process connection information, including IP addresses, for operation and security under GitHub’s privacy statement: https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement . We store only your chosen light or dark website appearance in this browser’s local storage. This preference is not sent to the developer. Clear website data in your browser to remove it. We do not add analytics, advertising trackers, contact forms, or embedded third-party media. Public GitHub issues are visible to everyone; do not submit personal or confidential information.
 
-本站使用 GitHub Pages 托管。GitHub 可能依据其隐私声明，为运行与安全处理 IP 地址等连接信息。本站不添加统计追踪、广告、联系表单或第三方媒体嵌入。GitHub 公开问题对所有人可见，请勿提交个人或机密信息。
+本站使用 GitHub Pages 托管。GitHub 可能依据其隐私声明，为运行与安全处理 IP 地址等连接信息。本站仅在浏览器本地存储中记住你选择的深浅外观，不将该偏好发送给开发者；清除浏览器的网站数据即可移除。本网站不添加统计追踪、广告、联系表单或第三方媒体嵌入。GitHub 公开问题对所有人可见，请勿提交个人或机密信息。

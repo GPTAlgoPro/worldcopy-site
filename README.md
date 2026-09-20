@@ -27,6 +27,10 @@ The website is a static documentation site. It has no login, payment processing,
 - Keep App Store availability accurate. Do not add download badges before the apps are available.
 - Update privacy, purchase disclosures and support documentation when the shipped app changes.
 
+## Appearance
+
+Rounded local font families are used for Chinese and English, with system fallbacks and no external font requests. Light and dark appearances follow the system until explicitly selected. The preference is stored locally and shared across pages and language versions.
+
 ## Brand icon
 
 The website uses the complete light-appearance icon render (`assets/worldcopy-icon-light.png`), including the glass background and lens halo. The app asset catalog fallback PNG is not the composited app icon.
