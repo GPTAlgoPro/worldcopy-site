@@ -50,3 +50,9 @@ The screenshots do not constitute a benchmark or guarantee of results. Device, i
 ## Rights
 
 Website text, branding and screenshots © 2026 Kai Sun. Third-party license texts retain their original terms and notices. A public repository does not grant a license to redistribute app models or weights.
+
+## Product campaign (2026-09-21)
+
+The bilingual creation sections and Pro overview reuse the App Store campaign: a generated abstract brand background plus actual application screenshots of user-created models. Interface text and screenshots are not AI-redrawn. iPhone examples use the 1.31.5 (248) screenshot build; Mac captures show the existing production feature set. Public availability remains “preparing for release”. Chinese public attribution is 孙凯; English is Kai Sun. Apple’s seller-name record is managed separately by Apple.
+
+Validate with `python3 scripts/build.py` and `python3 scripts/verify.py`; desktop and 390px mobile layouts were also inspected in a browser.
